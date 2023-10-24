@@ -1,0 +1,17 @@
+My first C-program
+Can write on two lines
+Area of the triangle: 10.000000
+1
+1
+1
+1
+Dividing by zero is not supported
+10 divided by 2 is 5
+1
+1
+1
+1
+1
+1
+1
+1
